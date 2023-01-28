@@ -3,3 +3,6 @@
 
 # C++ Development Useful links
 - [Project Nayuki](https://www.nayuki.io) : Mostly have some cool projects to look at.
+
+# Want to do well in English
+- [Basic english grammer](https://basicenglishspeaking.com/basic-english-grammar-rules/) : (40 Lessons) Basic English Grammar Rules With Example Sentences
